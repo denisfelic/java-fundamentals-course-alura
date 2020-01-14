@@ -1,0 +1,8 @@
+{
+"name": "Joao",
+"sobrenome": "da Silva",
+"emails" : ["jao123@gmail.com", "42342joao@gmail.com"],
+"idade": 42,
+"telefone": "11-232323",
+"familia": {"pai" : "Afonso Zica", "mae": "Maria Joaquina" }, "filhos": ["Mike Silva", "Vitoria Silva", "Liza Silva"]
+}

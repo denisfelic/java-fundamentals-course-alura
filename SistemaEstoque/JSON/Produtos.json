@@ -1,0 +1,139 @@
+{
+  "prod": [
+    {
+      "idProduto": "p000",
+      "nomeProduto": "Coca Cola",
+      "dataCompra": {
+        "dia": 23,
+        "mes": 12,
+        "ano": 2014
+      },
+      "categoria": "alimento",
+      "preco": 4.2,
+      "descricao": "refrigerante cola",
+      "marca": "Coca Cola",
+      "peso": 2,
+      "tipoPeso": "l",
+      "codBarras": "931313236",
+      "paisOrigem": "Brasil",
+      "sac": {
+        "contato": {
+          "email": [
+            "cocacola@sac.com.br"
+          ],
+          "telefone": [
+            "444-444",
+            "3233-323"
+          ]
+        }
+      },
+      "fornecedor": {
+        "cnpj": "3232.3232-44",
+        "nomeEmpresa": "RF Coca Distribuidora Brasil",
+        "nomeResponsavel": "Sergio Lopes",
+        "contato": {
+          "email": [
+            "rfdistribuidora@contato.com"
+          ],
+          "telefone": [
+            "4344-43",
+            "134-3534"
+          ]
+        },
+        "ramo": "Alimenticio",
+        "produtosOferecido": "Bebidas",
+        "idFornecedor": "f000"
+      }
+    },
+    {
+      "idProduto": "p001",
+      "nomeProduto": "ChocoBom",
+      "dataCompra": {
+        "dia": 23,
+        "mes": 12,
+        "ano": 2014
+      },
+      "categoria": "alimento",
+      "preco": 4.2,
+      "descricao": "Barra de Chocolate",
+      "marca": "Lacta",
+      "peso": 400,
+      "tipoPeso": "g",
+      "codBarras": "43953589",
+      "paisOrigem": "Brasil",
+      "sac": {
+        "contato": {
+          "email": [
+            "lacta@sac.com.br"
+          ],
+          "telefone": [
+            "232-444",
+            "9429-323"
+          ]
+        }
+      },
+      "fornecedor": {
+        "cnpj": "4214.424.-42",
+        "nomeEmpresa": "Lacta Brasil",
+        "nomeResponsavel": "Riaf Fovauol",
+        "contato": {
+          "email": [
+            "lactadistrubuidora@contato.com"
+          ],
+          "telefone": [
+            "2423-43",
+            "23323-33"
+          ]
+        },
+        "ramo": "Alimenticio",
+        "produtosOferecido": "Chocolates",
+        "idFornecedor": "f001"
+      }
+    },
+    {
+      "idProduto": "p002",
+      "nomeProduto": "Nissin Lammen",
+      "dataCompra": {
+        "dia": 21,
+        "mes": 11,
+        "ano": 2015
+      },
+      "categoria": "alimento",
+      "preco": 4.2,
+      "descricao": "Macarrão Instantaneo",
+      "marca": "Nissin",
+      "peso": 400,
+      "tipoPeso": "g",
+      "codBarras": "4325959",
+      "paisOrigem": "Brasil",
+      "sac": {
+        "contato": {
+          "email": [
+            "nissin@sac.com.br"
+          ],
+          "telefone": [
+            "7667-444",
+            "9470-323"
+          ]
+        }
+      },
+      "fornecedor": {
+        "cnpj": "5314.424.-11",
+        "nomeEmpresa": "Nissin Brasil",
+        "nomeResponsavel": "Soyk Suigk",
+        "contato": {
+          "email": [
+            "nissinlammen@contato.com"
+          ],
+          "telefone": [
+            "2332-43",
+            "44444-33"
+          ]
+        },
+        "ramo": "Alimenticio",
+        "produtosOferecido": "Macarrao Instantaneo",
+        "idFornecedor": "f002"
+      }
+    }
+  ]
+}

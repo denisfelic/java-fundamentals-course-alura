@@ -1,0 +1,29 @@
+body{
+    background: #0a0a0a;
+    color: #eeeeee;
+}
+
+.align-center{
+    text-align: center;
+    align-items: center;
+    align-content: center;
+}
+
+.btnVerde{
+    background: #1AA34A;
+    margin-left: 20px;
+}
+
+.textBox{
+    margin-left: 40px;
+}
+.titulo1{
+    font-size: 14px;
+    margin: 20px;
+    font-weight: 600;
+}
+.logo{
+    margin: 40px;
+    width: 150px;
+    height: 150px;
+}
